@@ -1,0 +1,15 @@
+# Python
+.env
+.mypy_cache
+
+# Terraform
+.terraform
+.terraform.lock.hcl
+terraform.tfstate*
+
+# VSCode
+.vscode
+
+# Output
+.package
+smartsheet-webhook.zip
